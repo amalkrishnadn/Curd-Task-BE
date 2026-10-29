@@ -1,0 +1,23 @@
+{
+  "courses": [
+    {
+      "name": "Amal",
+      "course": "Mearn",
+      "duration": "3 months",
+      "id": "MS9sGI_"
+    },
+    {
+      "name": "Akash H",
+      "course": "Data Science",
+      "duration": "8 months",
+      "id": "WpxeHZj"
+    },
+    {
+      "name": "Rahul",
+      "course": "Data Analytics",
+      "duration": "6 months",
+      "id": "dGqshj4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
